@@ -1,0 +1,27 @@
+[Name] = Name
+[Password] = Password
+[IP] = svr.alphasamp.ir
+[PORT] = 7777
+
+//Register Text For compare login and register dialog
+[RegisterText] = SabteNam
+
+//Register Dialog input for password
+[Input1] = RegisterPassword
+
+//Response For Dialog Refereral
+[Input2Res] = false
+
+//Response For Dialog Gender
+[Input3Res] = true
+
+//Mother Bot
+[UseMotherBot] = false
+[MotherBotName] = MotherBotName
+[MotherBotPassword] = MotherBotPassword
+
+//Income to start transfer to mother bot
+[Income] = 500000
+
+//Transfer Amount To Mother Bot
+[Transfer] = 250000
